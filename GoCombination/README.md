@@ -9,3 +9,7 @@ GoCombination
 *	go get -u github.com/zituocn/gopkg/GoCombination
 *	go build
 *   运行二进制文件
+
+##生成文本文件
+
+*	GoCombination.exe > numbers.txt
